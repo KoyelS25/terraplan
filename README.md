@@ -1,0 +1,2 @@
+# terraplan
+terraform exercises
